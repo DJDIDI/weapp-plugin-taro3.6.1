@@ -1,0 +1,17 @@
+{
+	"miniprogramRoot": "miniprogram/miniprogram/",
+	"pluginRoot": "miniprogram/plugin/",
+	"compileType": "plugin",
+	"appid": "touristappid",
+	"projectname": "weapp-plugin-taro3.6.1",
+	"description": "",
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+    "enhance": false,
+    "compileHotReLoad": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true
+	}
+}
